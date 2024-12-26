@@ -1,4 +1,5 @@
 # protected method
+# child class is accessing the protectd variable from the parent class
 class School:
         def __init__(self):
                 self.Name = "Abc"
